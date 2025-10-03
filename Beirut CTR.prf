@@ -1,0 +1,68 @@
+RecentFiles	Recent1	OLBB\ASR\Beirut CTR.asr
+Settings	sector	\OLBB-Full_20231003215149-230901-0006.sct
+Settings	SettingsfileSYMBOLOGY	\OLBB\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\OLBB\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\OLBB\Settings\Login Profiles\OLBA\OLBA_CTR.txt
+Settings	SettingsfileTAGS	\OLBB\Settings\Tags.txt
+Settings	SettingsfileSIL	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileSEL	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileDEP	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileARR	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileFP	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfilePLUGINS	\OLBB\Settings\Plugins.txt
+Settings	Settingsfile	\OLBB\Settings\General.txt
+Settings	SettingsfileSCREEN	\OLBB\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileVCCS	\OLBB\Settings\VCCS.txt
+RecentFiles	Recent2	\OLBB\ASR\Beirut GMC.asr
+ASRFastKeys	1	\OLBB\ASR\Beirut GMC.asr
+Settings	alias	\OLBB\Alias\alias.txt
+Settings	airlines	\OLBB\ICAO\ICAO_Airlines.txt
+Settings	airports	\OLBB\ICAO\ICAO_Airports.txt
+Settings	aircraft	\OLBB\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\OLBB\NavData\icao.txt
+Settings	airways	\OLBB\NavData\isec.txt
+Plugins	Plugin0	\OLBB\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin1	\OLBB\Plugins\TopSky\TopSky.dll
+ASRFastKeys	2	OLBB\ASR\Beirut CTR.asr
+Settings	AtisFolder	\OLBB\ATIS\atisfiles.txt
+Plugins	Plugin2	\OLBB\Plugins\vSMR\vSMR.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin3	\OLBB\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
+Plugins	Plugin2Display0	SMR radar display
+Plugins	Plugin1Display1	SMR radar display
+Settings	SettingsfilePILOTING	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileORIGPLANE	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileSTUP	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileTAXIOUT	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileTAKEOFF	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileADCS	\OLBB\Settings\CTR Profile\Lists.txt
+Settings	SettingsfileTAXIIN	\OLBB\Settings\CTR Profile\Lists.txt
+Sounds	Sound0	\OLBB\Sounds\handoff_request.wav
+Sounds	Sound1	\OLBB\Sounds\handoff_accept.wav
+Sounds	Sound2	\OLBB\Sounds\conflict_alert.wav
+Sounds	Sound3	\OLBB\Sounds\radio_message.wav
+Sounds	Sound4	\OLBB\Sounds\private_message.wav
+Sounds	Sound5	\OLBB\Sounds\atc_message.wav
+Sounds	Sound6	\OLBB\Sounds\broadcast_message.wav
+Sounds	Sound7	\OLBB\Sounds\landline_request.wav
+Sounds	Sound8	\OLBB\Sounds\supervisor_message.wav
+Sounds	Sound9	\OLBB\Sounds\connected.wav
+Sounds	Sound10	\OLBB\Sounds\disconnected.wav
+Sounds	Sound11	\OLBB\Sounds\ongoing_request.wav
+Sounds	Sound12	\OLBB\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\OLBB\Sounds\ongoing_refused.wav
+Sounds	Sound14	\OLBB\Sounds\ongoing_manual.wav
+Sounds	Sound15	\OLBB\Sounds\new_atis.wav
+Sounds	Sound16	\OLBB\Sounds\handoff_refused.wav
+Sounds	Sound17	\OLBB\Sounds\pointout.wav
+Sounds	Sound18	\OLBB\Sounds\startup.wav
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

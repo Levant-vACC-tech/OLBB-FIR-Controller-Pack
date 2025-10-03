@@ -1,0 +1,48 @@
+{
+    "OOMS": {
+        "elevation": 49,
+        "runways": "08L,08R,26L,26R",
+        "transAlt": 13000,
+        "maxInitialClimb": 3000,
+        "enableRVSids": true,
+        "appSI": "MR",
+        "sids": {
+            "initial": 3000,
+            "ITLAK": {
+                "N": {
+					"1":{
+						"rwy": "26R",
+						"prio": 1
+					}
+                }
+			},
+            "MURMA": {
+                "N": {
+					"1":{
+						"rwy": "08L",
+						"prio": 1
+					}
+                }
+                "trans": {"OKUNO": "C", "SIPRO": "C", "TIBER": "C"},
+                "R": {
+					"1":{
+						"rwy": "25",
+						"prio": 99
+					}
+                },
+                "M": {
+					"1":{
+						"rwy": "34L",
+						"prio": 1
+					}
+                },
+                "X": {
+					"1":{
+						"rwy": "34R",
+						"prio": 1
+					}
+                }
+			}
+        }
+    }
+}

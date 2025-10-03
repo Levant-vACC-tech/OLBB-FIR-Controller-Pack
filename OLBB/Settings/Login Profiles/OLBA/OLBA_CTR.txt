@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:<Initials>_OBS:150:0
+ATIS2:"Beirut Observer"
+ATIS3:
+ATIS4:
+PROFILE:OLBA_APP:150:5
+ATIS2:"Beirut Approach"
+ATIS3:
+ATIS4:
+END

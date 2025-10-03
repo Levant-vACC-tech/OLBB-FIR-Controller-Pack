@@ -1,0 +1,38 @@
+// File created for the Arabian vACC - Muscat FIR (OOMM)
+// Developed and maintained by the Arabian vACC Operations Department
+//
+// To be used on the VATSIM Network only
+
+// Muscat FIR Transit
+RANGE:3501:3577
+NOTADEP:OO
+NOTADES:OO
+
+// Muscat FIR Arrivals
+RANGE:6500:6577
+ADES:OO
+
+// Muscat FIR International Departures Squawk
+RANGE:4001:4077
+ADEP:OO
+NOTADES:OO
+IFR
+
+// Muscat FIR International Departures Squawk
+RANGE:4701:4777
+ADEP:OO
+NOTADES:OO
+SECONDARY
+IFR
+
+// Muscat FIR Domestic Squawk
+RANGE:1201:1277
+ADEP:OO
+ADES:OO
+
+// Muscat FIR Domestic Squawk
+RANGE:4601:4677
+ADEP:OO
+ADES:OO
+SECONDARY
+IFR

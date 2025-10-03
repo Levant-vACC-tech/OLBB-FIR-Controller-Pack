@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:<Initials>_OBS:256:0
+ATIS2:"Beirut Observer"
+ATIS3:
+ATIS4:
+PROFILE:OLBB_CTR:256:6
+ATIS2:"Beirut Radar"
+ATIS3:
+ATIS4:
+END

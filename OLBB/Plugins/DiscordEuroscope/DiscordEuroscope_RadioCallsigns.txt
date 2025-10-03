@@ -1,0 +1,8 @@
+OLBB_CTR Beirut Radar
+OLBA_APP Beirut Approach
+OLBA_TWR Beirut Tower
+OLBA_GND Beirut Ground
+OLBA_DEL Beirut Delivery
+OLBA_FMP Beirut Planner
+OLRA_TWR Rayak Tower
+OLKA_TWR Kleyate Tower

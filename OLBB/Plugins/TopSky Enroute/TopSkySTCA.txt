@@ -1,0 +1,13 @@
+// File created for the Arabian vACC - Muscat FIR (OOMM)
+// Developed and maintained by the Arabian vACC Operations Department
+//
+// To be used on the VATSIM Network only
+
+// Muscat
+FINALAPP:OOMS:08L
+FINALAPP:OOMS:08R
+FINALAPP:OOMS:26L
+FINALAPP:OOMS:26R
+
+SOIR:OOMS:08L:08R
+SOIR:OOMS:26L:26R

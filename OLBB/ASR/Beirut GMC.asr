@@ -1,0 +1,102 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\USER\Downloads\OLBB-Full_20231003215149-230901-0006\OLBB-Full_20231003215149-230901-0006.sct
+SECTORTITLE:OLBB-Full_20231003215149-230901-0006.sct
+Free Text:OLBA Rafic Hariri Intl Apt\A:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\B:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\C:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\CARGO:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\D:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\E:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\F:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G1:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G10:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G11:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G12:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G13:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G14:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G15:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G16:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G17:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G18:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G19:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G2:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G20:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G21:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G23:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G3:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G5:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G6:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G7:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G8:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\G9:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\H:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\J:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\K:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\L:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\M:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\N:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\N1:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\N1A:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\N1B:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\N2:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\N2A:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\N2B:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\N3:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\NORTH PARKING GA:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\O:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\S1:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\S2:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\S3:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\TERMINAL A:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\TERMINAL B:freetext
+Geo:GEO:
+Geo:OLBA Groundlayout Rafic Hariri Intl Apt:
+Regions:OLBA Rafic Hariri Intl Ap:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:33.790591:35.431032:33.845502:35.555585
+PLUGIN:Ground Radar plugin:AirportElevation:8
+PLUGIN:Ground Radar plugin:AirportRadius:2.0
+PLUGIN:Ground Radar plugin:GroundMode:OLBA
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Professional
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OLBA
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1919
+PLUGIN:vSMR:SRW1BottomRightY:943
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:-12
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1487
+PLUGIN:vSMR:SRW1TopLeftY:575
+PLUGIN:vSMR:SRW2BottomRightX:1629
+PLUGIN:vSMR:SRW2BottomRightY:361
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:1229
+PLUGIN:vSMR:SRW2TopLeftY:61

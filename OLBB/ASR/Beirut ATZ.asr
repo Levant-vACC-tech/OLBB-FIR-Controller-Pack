@@ -1,0 +1,115 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Euroscope sector files\OLBB\OLBB-Full_20231003215149-230901-0006.sct
+SECTORTITLE:OLBB-Full_20231003215149-230901-0006.sct
+ARTCC high boundary:OLBB Beirut CTA:
+ARTCC high boundary:OSTT Damascus FIR:
+ARTCC low boundary:OLBB Beirut ATZ:
+Fixes:AIN/ZEHALTA:name
+Fixes:AIN/ZEHALTA:symbol
+Fixes:AMCHIT:name
+Fixes:AMCHIT:symbol
+Fixes:BALMA:name
+Fixes:BALMA:symbol
+Fixes:BEKFAYA:name
+Fixes:BEKFAYA:symbol
+Fixes:CEDAR:name
+Fixes:CEDAR:symbol
+Fixes:CHOUIFAT:name
+Fixes:CHOUIFAT:symbol
+Fixes:DAHER/EL/BAIDAR:name
+Fixes:DAHER/EL/BAIDAR:symbol
+Fixes:DAIR/AL/AHMAR:name
+Fixes:DAIR/AL/AHMAR:symbol
+Fixes:DAIR/EL/KAMAR:name
+Fixes:DAIR/EL/KAMAR:symbol
+Fixes:DAMOUR:name
+Fixes:DAMOUR:symbol
+Fixes:DORA:name
+Fixes:DORA:symbol
+Fixes:ELIKA:name
+Fixes:ELIKA:symbol
+Fixes:IAAT:name
+Fixes:IAAT:symbol
+Fixes:JOUNIEH:name
+Fixes:JOUNIEH:symbol
+Fixes:KLEYATE:name
+Fixes:KLEYATE:symbol
+Fixes:KUKLA:name
+Fixes:KUKLA:symbol
+Fixes:LATEB:name
+Fixes:LATEB:symbol
+Fixes:LEBOR:name
+Fixes:LEBOR:symbol
+Fixes:LITAN:name
+Fixes:LITAN:symbol
+Fixes:MAIFOUK:name
+Fixes:MAIFOUK:symbol
+Fixes:MARJAHINE:name
+Fixes:MARJAHINE:symbol
+Fixes:OYOUN/ORGHOCH:name
+Fixes:OYOUN/ORGHOCH:symbol
+Fixes:RAYAK:name
+Fixes:RAYAK:symbol
+Fixes:TRIPOLI:name
+Fixes:TRIPOLI:symbol
+Fixes:WEST/HDG:name
+Fixes:WEST/HDG:symbol
+Geo:GEO:
+Geo:OLBB Landmark Beirut River:
+Geo:OLBB Landmark Lebanon Borderline:
+Geo:OLBB Landmark Lebanon CoastLine:
+High airways:L513:line
+High airways:L620:line
+High airways:M31:line
+High airways:M425:line
+High airways:M601:line
+High airways:N159:line
+High airways:N310:line
+High airways:N71:line
+High airways:P300:line
+High airways:UB15:line
+High airways:UL620:line
+High airways:UM425:line
+High airways:UN310:line
+High airways:UN438:line
+High airways:UP300:line
+High airways:UR219:line
+Low airways:G2:line
+Low airways:R655:line
+Runways:OLBA 03-21:centerline
+Runways:OLBA 03-21:extended centerline 1
+Runways:OLBA 03-21:extended centerline 1 left ticks
+Runways:OLBA 03-21:extended centerline 1 right ticks
+Runways:OLBA 03-21:extended centerline 2
+Runways:OLBA 03-21:extended centerline 2 left ticks
+Runways:OLBA 03-21:extended centerline 2 right ticks
+Runways:OLBA 16-34:centerline
+Runways:OLBA 16-34:extended centerline 1
+Runways:OLBA 16-34:extended centerline 1 left ticks
+Runways:OLBA 16-34:extended centerline 1 right ticks
+Runways:OLBA 16-34:extended centerline 2
+Runways:OLBA 16-34:extended centerline 2 left ticks
+Runways:OLBA 16-34:extended centerline 2 right ticks
+Runways:OLBA 17-35:centerline
+Runways:OLBA 17-35:extended centerline 1
+Runways:OLBA 17-35:extended centerline 1 left ticks
+Runways:OLBA 17-35:extended centerline 1 right ticks
+Runways:OLBA 17-35:extended centerline 2
+Runways:OLBA 17-35:extended centerline 2 left ticks
+Runways:OLBA 17-35:extended centerline 2 right ticks
+SHOWC:1
+SHOWSB:0
+BELOW:350
+ABOVE:15000
+LEADER:1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_TWR
+WINDOWAREA:33.521877:34.854921:34.076138:36.112703
