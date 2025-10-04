@@ -2,9 +2,9 @@ PROFILE
 PROFILE:<Initials>_OBS:256:0
 ATIS2:"Beirut Observer"
 ATIS3:
-ATIS4:
+ATIS4:Share your feedback - vats.im/cfb
 PROFILE:OLBB_CTR:256:6
 ATIS2:"Beirut Radar"
-ATIS3:
-ATIS4:
+ATIS3:Covering the whole Beirut FIR
+ATIS4:Share your feedback - vats.im/cfb
 END

@@ -2,13 +2,13 @@ PROFILE
 PROFILE:<Initials>_OBS:50:0
 ATIS2:"Beirut Observer"
 ATIS3:
-ATIS4:
+ATIS4:Share your feedback - vats.im/cfb
 PROFILE:OLBA_GND:20:3
 ATIS2:"Beirut Ground"
 ATIS3:
-ATIS4:
+ATIS4:Share your feedback - vats.im/cfb
 PROFILE:OLBA_TWR:50:4
 ATIS2:"Beirut Tower"
 ATIS3:
-ATIS4:
+ATIS4:Share your feedback - vats.im/cfb
 END
