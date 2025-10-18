@@ -1,4 +1,4 @@
-RecentFiles	Recent1	\OLBB\ASR\Beirut GMC.asr
+RecentFiles	Recent1	\OLBB\ASR\Beirut ATZ.asr
 Settings	sector	\OLBB-Full_20231003215149-230901-0006.sct
 Settings	SettingsfileSYMBOLOGY	\OLBB\Settings\Symbology.txt
 Settings	SettingsfileVOICE	\OLBB\Settings\VoiceChannels.txt
@@ -14,7 +14,7 @@ Settings	Settingsfile	\OLBB\Settings\General.txt
 Settings	SettingsfileSCREEN	\OLBB\Settings\Screen.txt
 Settings	SettingsfileCONFLICT	\OLBB\Settings\ATZ Profile\Lists.txt
 Settings	SettingsfileVCCS	\OLBB\Settings\VCCS.txt
-RecentFiles	Recent2	\OLBB\ASR\Beirut ATZ.asr
+RecentFiles	Recent2	\OLBB\ASR\Beirut GMC.asr
 ASRFastKeys	1	\OLBB\ASR\Beirut GMC.asr
 Settings	alias	\OLBB\Alias\alias.txt
 Settings	airlines	\OLBB\ICAO\ICAO_Airlines.txt
@@ -23,7 +23,7 @@ Settings	aircraft	\OLBB\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\OLBB\NavData\icao.txt
 Settings	airways	\OLBB\NavData\isec.txt
 Plugins	Plugin0	\OLBB\Plugins\DiscordEuroscope\DiscordEuroscope.dll
-Plugins	Plugin1	\OLBB\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1	\OLBB\Plugins\TopSky Aerodrome\TopSky.dll
 ASRFastKeys	2	\OLBB\ASR\Beirut ATZ.asr
 Settings	AtisFolder	\OLBB\ATIS\atisfiles.txt
 Plugins	Plugin2	\OLBB\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
@@ -39,10 +39,10 @@ Settings	SettingsfileTAXIOUT	\OLBB\Settings\ATZ Profile\Lists.txt
 Settings	SettingsfileTAKEOFF	\OLBB\Settings\ATZ Profile\Lists.txt
 Settings	SettingsfileADCS	\OLBB\Settings\ATZ Profile\Lists.txt
 Settings	SettingsfileTAXIIN	\OLBB\Settings\ATZ Profile\Lists.txt
-LastSession	connecttype	0
+LastSession	connecttype	2
 LastSession	facility	4
-LastSession	rating	0
-LastSession	tovatsim	1
+LastSession	rating	9
+LastSession	tovatsim	0
 LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
@@ -71,3 +71,15 @@ RecentFiles	Recent3	\OLBB\ASR\Beirut ATZ.asr
 RecentFiles	Recent4	\OLBB\ASR\Beirut ATZ.asr
 TeamSpeakVccs	TsVccsMiniControlX	1623
 TeamSpeakVccs	TsVccsMiniControlY	732
+LastSession	callsign	OLBA_M_TWR
+LastSession	realname	Kai M
+LastSession	certificate	16214214
+LastSession	password	124124124
+LastSession	server	localhost
+LastSession	atis2	"Beirut Tower"
+LastSession	scenario	C:\Users\kaijm\Downloads\102 (1).txt
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin1Display2	Ground Radar display
+Plugins	Plugin4	\OLBB\Plugins\vSID\vSID.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display

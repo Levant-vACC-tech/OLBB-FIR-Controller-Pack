@@ -1,5 +1,5 @@
 {
-    "airportConfigs": "../vSID Airports",
+    "airportConfigs": "vSID Airports",
     "colors": {
         "sidSuggestion": {
             "r": 255,
