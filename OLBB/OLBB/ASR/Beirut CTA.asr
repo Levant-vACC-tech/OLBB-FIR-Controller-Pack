@@ -1,12 +1,18 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:D:\Levant github\OLBB-FIR-Controller-Pack\OLBB\OLBB-Full_20231003215149-230901-0006.sct
+SECTORTITLE:OLBB-Full_20231003215149-230901-0006.sct
 ARTCC boundary:OLBB Beirut CTR:
 ARTCC high boundary:OLBB Beirut CTA:
 ARTCC high boundary:OSTT Damascus FIR:
 ARTCC low boundary:OLBB Beirut ATZ:
+Airports:OLBA:name
+Airports:OLBA:symbol
+Airports:OLKA:name
+Airports:OLKA:symbol
+Airports:OLRA:name
+Airports:OLRA:symbol
 Fixes:AIN/ZEHALTA:name
 Fixes:AIN/ZEHALTA:symbol
 Fixes:AMCHIT:name
@@ -57,6 +63,8 @@ Fixes:TRIPOLI:name
 Fixes:TRIPOLI:symbol
 Fixes:WEST/HDG:name
 Fixes:WEST/HDG:symbol
+Fixes:ZALKA:name
+Fixes:ZALKA:symbol
 Geo:GEO:
 Geo:OLBB Landmark Beirut River:
 Geo:OLBB Landmark Lebanon Borderline:
@@ -81,6 +89,10 @@ Low airways:G2:line
 Low airways:R655:line
 NDBs:BOD:name
 NDBs:BOD:symbol
+Regions:OLBB Terrain Level 1:polygon
+Regions:OLBB Terrain Level 2:polygon
+Regions:OLBB Terrain Level 3:polygon
+Regions:OLBB Terrain Level 4:polygon
 Runways:OLBA 03-21:centerline
 Runways:OLBA 03-21:extended centerline 1
 Runways:OLBA 03-21:extended centerline 1 left ticks
@@ -117,4 +129,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_ENR
-WINDOWAREA:32.861648:33.165118:34.814766:37.597323
+WINDOWAREA:32.858422:33.545001:34.904277:38.010235

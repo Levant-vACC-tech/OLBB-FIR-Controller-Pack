@@ -1,0 +1,12 @@
+// File created for the Levant vACC - Beirut FIR (OLBB)
+// Developed and maintained by Kai Mannion - 1628645
+//
+// To be used on the VATSIM Network only
+
+// Beirut
+FINALAPP:OLBA:16
+FINALAPP:OLBA:17
+FINALAPP:OLBA:21
+FINALAPP:OLBA:34
+FINALAPP:OLBA:35
+FINALAPP:OLBA:03

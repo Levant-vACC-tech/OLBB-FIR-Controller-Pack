@@ -1,14 +1,23 @@
-DisplayTypeName:Ground Radar display
+DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Euroscope sector files\Levant\OLBB\OLBB-Full_20231003215149-230901-0006.sct
+SECTORFILE:C:\Users\jorda\OneDrive\Dokumente\Vatsim\MENA\LEV\OLBB\OLBB-Full_20231003215149-230901-0006.sct
 SECTORTITLE:OLBB-Full_20231003215149-230901-0006.sct
+Free Text:OLBA Rafic Hariri Intl Apt\A:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\A:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\A:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\A:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\A:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\A:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\A:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\A:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\B:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\C:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\CARGO:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\D:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\E:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\E:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\F:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\F:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\G:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\G1:freetext
@@ -34,9 +43,19 @@ Free Text:OLBA Rafic Hariri Intl Apt\G8:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\G9:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\H:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\J:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\J:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\K:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\K:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\L:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\L:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\L:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\L:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\M:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\M:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\M:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\M:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\M:freetext
+Free Text:OLBA Rafic Hariri Intl Apt\N:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\N:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\N1:freetext
 Free Text:OLBA Rafic Hariri Intl Apt\N1A:freetext
@@ -68,10 +87,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:33.790591:35.431032:33.845502:35.555585
-PLUGIN:Ground Radar plugin:AirportElevation:8
-PLUGIN:Ground Radar plugin:AirportRadius:2.0
-PLUGIN:Ground Radar plugin:GroundMode:OLBA
+WINDOWAREA:33.795469:35.429803:33.850357:35.555346
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Professional
 PLUGIN:vSMR:Afterglow:1

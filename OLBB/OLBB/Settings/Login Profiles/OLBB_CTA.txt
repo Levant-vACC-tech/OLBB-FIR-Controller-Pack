@@ -1,10 +1,14 @@
 PROFILE
 PROFILE:<Initials>_OBS:256:0
 ATIS2:"Beirut Observer"
-ATIS3:
-ATIS4:Share your feedback - vats.im/cfb
+ATIS3:Levant vACC Observer
+ATIS4:Share your feedback - vats.im/levfb
+PROFILE:OLBA_APP:256:5
+ATIS2:"Beirut Approach"
+ATIS3:Covering the entire Beirut FIR below FL195
+ATIS4:How did I do? - vats.im/levfb
 PROFILE:OLBB_CTR:256:6
 ATIS2:"Beirut Radar"
-ATIS3:Covering the whole Beirut FIR
-ATIS4:Share your feedback - vats.im/cfb
+ATIS3:Covering the entire Beirut FIR
+ATIS4:How did I do? - vats.im/levfb
 END

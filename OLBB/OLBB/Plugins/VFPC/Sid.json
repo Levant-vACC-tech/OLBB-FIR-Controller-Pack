@@ -1,177 +1,37 @@
 [
    {
-      "icao": "OOMS",
+      "icao": "OLBA",
       "sids": {
-         "DAPOK": [
+         "LEBOR": [
             {
-               "direction": "EVEN",
-               "destinations": [
-                  "OMDW",
-                  "OMDM"
-               ],
+               "direction": "ODD",
                "airways": [
-                  "T508"
+                  "R655",
+                  "L513"
                ]
             }
          ],
-         "EMURU": [
+         "LATEB": [
             {
                "direction": "ODD",
-               "destinations": [
-                  "VAGO",
-                  "VCBI",
-                  "VOBL",
-                  "VOCB",
-                  "VOCL",
-                  "VOCI",
-                  "VOML",
-                  "VOTR",
-                  "VOTV"
-               ],
                "airways": [
-                  "P570",
-                  "M300"
+                  "N310"
                ]
             }
          ],
-         "MCT": [
+         "KAD": [
             {
-               "destinations": [
-                  "OMDB",
-                  "OMSJ",
-                  "OMRK"
-               ],
                "airways": [
-                  "T508"
-               ]
-            },
-            {
-               "destinations": [
-                  "OOKB"
-               ],
-               "airways": [
-                  "Z890"
+                  "UB15",
+                  "R19",
+                  "B15",
+                  "W17",
+                  "R655",
+                  "G2"
                ]
             }
-         ],
-         "MUSRU": [
-            {
-               "direction": "ODD",
-               "destinations": [
-                  "VAPO",
-                  "VOMM"
-               ],
-               "airways": [
-                  "P574",
-                  "N881"
-               ]
-            }
-         ],
-         "SEVLA": [
-            {
-               "direction": "ODD",
-               "destinations": [
-                  "VABB",
-                  "VOHS"
-               ],
-               "airways": [
-                  "Q250"
-               ]
-            }
-         ],
-         "SODEB": [
-            {
-               "direction": "ODD",
-               "destinations": [
-                  "VABB"
-               ],
-               "airways": [
-                  "G216"
-               ]
-            }
-         ]
-      }
-   },
-   {
-      "icao": "OOSA",
-      "sids": {
-         "DAXAM": [
-            {
-               "direction": "ODD",
-               "destinations": [
-                  "OOMS",
-                  "OOMN",
-                  "OMDB",
-                  "OMSJ",
-                  "OMDW",
-                  "OMRK",
-                  "OMFJ",
-                  "OMAA",
-                  "OMAL",
-                  "OMAD",
-                  "OOSH"
-               ],
-               "airways": [
-                  "Y414"
-               ]
-            }
-         ]
-      }
-   },
-   {
-      "icao": "OOSH",
-      "sids": {
-         "BOTAM": [
-            {
-               "direction": "ODD",
-               "destinations": [
-                  "OOSA"
-               ],
-               "airways": [
-                  "Y855"
-               ]
-            }  
-         ],
-         "VAXAS": [
-            {
-               "direction": "EVEN",
-               "destinations": [
-                  "OMDB",
-                  "OMSJ",
-                  "OMDW",
-                  "OMRK",
-                  "OMFJ"
-               ]
-            }  
-         ],
-         "ITRAX": [
-            {
-               "direction": "EVEN",
-               "destinations": [
-                  "OMAA",
-                  "OMAD",
-                  "OMAL"
-               ]
-            }
-         ]
-      }
-   },
-   {
-      "icao": "OOTH",
-      "sids": {
-         "GAGLA": [
-            {
-               "direction": "ODD",
-               "destinations": [
-                  "OMDB",
-                  "OMRK",
-                  "OMSJ"
-               ],
-               "airways": [
-                  "Y414"
-               ]
-            }  
          ]
       }
    }
 ]
+   

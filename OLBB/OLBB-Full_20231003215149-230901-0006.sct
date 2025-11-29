@@ -12,7 +12,7 @@
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;                                                                                                                         ;
-;  ALL RIGHTS RESERVED © AeroNav Association. NAV-DATA © AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
+;  ALL RIGHTS RESERVED ï¿½ AeroNav Association. NAV-DATA ï¿½ AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;  The Global Nav Generator (GNG) and all it sub-modules where created by the AeroNav Association.                        ;
@@ -97,8 +97,8 @@ E035.29.49.460
 #define COLOR_Releaseline    65535
 #define COLOR_RestrictedArea      128
 #define COLOR_RunwayBorder  8421504
-#define COLOR_RunwayConcrete  5987929
-#define COLOR_RunwayGrass    32768
+#define COLOR_RunwayConcrete  251607
+#define COLOR_RunwayGrass    11111
 #define COLOR_RunwayMarking 16777215
 #define COLOR_SID       16777215
 #define COLOR_STAR             0
@@ -108,7 +108,7 @@ E035.29.49.460
 #define COLOR_TMA              0
 #define COLOR_TMZ            128
 #define COLOR_TWR-CTR          0
-#define COLOR_Taxiway    3258048
+#define COLOR_Taxiway    1111111
 #define COLOR_TaxiwayBlue  8404992
 #define COLOR_TaxiwayBorder 16711680
 #define COLOR_TaxiwayBrown  2763429

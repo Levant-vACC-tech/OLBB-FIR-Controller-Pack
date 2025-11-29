@@ -1,5 +1,5 @@
-// File created for the Arabian vACC - Muscat FIR (OOMM)
-// Developed and maintained by the Arabian vACC Operations Department
+// File created for the Levant vACC - Beirut FIR (OLBB)
+// Developed and maintained by Kai Mannion - 1628645
 //
 // To be used on the VATSIM Network only
 
