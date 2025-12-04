@@ -5,6 +5,13 @@
          "LEBOR": [
             {
                "direction": "ODD",
+               "min_fl": 240,
+               "destinations": [
+                  "OSDI"
+               ]
+            },
+            {
+               "direction": "ODD",
                "airways": [
                   "R655",
                   "L513"
@@ -12,6 +19,13 @@
             }
          ],
          "LATEB": [
+            {
+               "direction": "ODD",
+               "min_fl": 240,
+               "destinations": [
+                  "OSDI"
+               ]
+            },
             {
                "direction": "ODD",
                "airways": [
