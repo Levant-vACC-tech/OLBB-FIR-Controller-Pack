@@ -48,41 +48,42 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:78
+m_Y:75
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:-1
 m_HeaderOnly:0
-m_Column:C/S:10:1:9:4:7:1::TopSky plugin::0:0.0
-m_Column:FR:2:1:63:0:0:1::::1:0.0
-m_Column:A/C:4:1:16:0:0:1::::1:0.0
-m_Column:POS:6:1:1:0:0:1:Ground Radar plugin:::0:0.0
-m_Column:W:3:1:10:0:0:1::::1:0.0
-m_Column:DEP:6:1:61:0:0:1::::1:0.0
-m_Column:ARR:6:1:17:1001:1:1::TopSky plugin::1:0.0
-m_Column:RFL:4:1:22:59:0:1::TopSky plugin::1:0.0
-m_Column:SID:15:1:641:742:0:1:vSID:vSID::1:0.0
-m_Column:RW:4:1:642:19:19:1:vSID:::1:0.0
-m_Column:CFL:5:1:20:12:0:1::TopSky plugin::1:0.0
-m_Column:XPDR:6:1:10042:62:869:1:TopSky plugin:TopSky plugin:CCAMS:1:0.0
-m_Column:C:1:1:58:27:81:1:::TopSky plugin:1:0.0
-m_Column:STS:5:1:3:13:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
-m_Column:FPC:5:1:1:100:0:1:VFPC:VFPC::0:0.0
-m_Column:CO:4:1:11:32:32:1::::1:0.0
-m_Column:RMK:6:1:19:2:0:1::TopSky plugin::1:0.0
+m_Column:C/S:10:1:9:4:7:1::TopSky plugin::3:4.0
+m_Column:FR:2:1:63:0:0:1::::3:3.8
+m_Column:A/C:4:1:16:0:0:1::::3:4.0
+m_Column:POS:6:1:1:0:0:1:Ground Radar plugin:::3:4.0
+m_Column:W:3:1:10:0:0:1::::3:4.0
+m_Column:DEP:6:1:61:0:0:1::::3:4.0
+m_Column:ARR:6:1:17:1001:1:1::TopSky plugin::3:4.0
+m_Column:RFL:4:1:22:59:0:1::TopSky plugin::2:4.0
+m_Column:SID:15:1:641:742:0:1:vSID:vSID::1:4.0
+m_Column:RW:4:1:642:19:19:1:vSID:::1:4.0
+m_Column:CFL:5:1:20:12:0:1::TopSky plugin::3:4.0
+m_Column:XPDR:6:1:10042:62:869:1:TopSky plugin:TopSky plugin:CCAMS:3:4.0
+m_Column:C:1:1:58:27:81:1:::TopSky plugin:3:4.0
+m_Column:STS:9:1:3:13:0:1:Ground Radar plugin:Ground Radar plugin::3:4.0
+m_Column:FPC:8:1:1:100:0:1:VFPC:VFPC::0:4.0
+m_Column:CO:4:1:11:32:32:1::::3:4.0
+m_Column:RMK:6:1:19:2:0:1::TopSky plugin::3:4.0
 END
 ARR
-m_Visible:1
-m_X:1257
-m_Y:88
+m_Visible:0
+m_X:18
+m_Y:349
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:-2
 m_HeaderOnly:0
-m_Column:C/S:7:0:9:8:0:1::::0:0.0
-m_Column:STAND:6:1:1:2:0:1:Belux:Belux::1:0.0
-m_Column:C/S:7:0:54:0:0:1::::1:0.0
-m_Column:STAR:7:0:55:18:0:1::::1:0.0
+m_Column:C/S:7:1:9:0:0:1::::3:4.0
+m_Column:TYPE:6:1:16:0:0:1::::3:4.0
+m_Column:STAND:6:1:2:1:0:1:Ground Radar plugin:Ground Radar plugin::3:4.0
+m_Column:ETA:7:1:54:0:0:1::::3:4.0
+m_Column:CTL:4:1:646:745:0:1:vSID:vSID::0:0.0
 END
 FP
 m_Visible:0

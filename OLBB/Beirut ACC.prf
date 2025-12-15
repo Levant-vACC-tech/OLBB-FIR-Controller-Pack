@@ -2,17 +2,17 @@ RecentFiles	Recent1	\OLBB\ASR\Beirut GMC.asr
 Settings	sector	\OLBB-Full_20231003215149-230901-0006.sct
 Settings	SettingsfileSYMBOLOGY	\OLBB\Settings\Symbology.txt
 Settings	SettingsfileVOICE	\OLBB\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\OLBB\Settings\Login Profiles\OLBB_CTA.txt
+Settings	SettingsfilePROFILE	\OLBB\Settings\OLBB_CTA.txt
 Settings	SettingsfileTAGS	\OLBB\Settings\Tags.txt
-Settings	SettingsfileSIL	\OLBB\Settings\CTA Profile\Lists.txt
-Settings	SettingsfileSEL	\OLBB\Settings\CTA Profile\Lists.txt
-Settings	SettingsfileDEP	\OLBB\Settings\CTA Profile\Lists.txt
-Settings	SettingsfileARR	\OLBB\Settings\CTA Profile\Lists.txt
-Settings	SettingsfileFP	\OLBB\Settings\CTA Profile\Lists.txt
+Settings	SettingsfileSIL	\OLBB\Settings\Lists-ACC.txt
+Settings	SettingsfileSEL	\OLBB\Settings\Lists-ACC.txt
+Settings	SettingsfileDEP	\OLBB\Settings\Lists-ACC.txt
+Settings	SettingsfileARR	\OLBB\Settings\Lists-ACC.txt
+Settings	SettingsfileFP	\OLBB\Settings\Lists-ACC.txt
 Settings	SettingsfilePLUGINS	\OLBB\Settings\Plugins.txt
 Settings	Settingsfile	\OLBB\Settings\General.txt
 Settings	SettingsfileSCREEN	\OLBB\Settings\Screen.txt
-Settings	SettingsfileCONFLICT	\OLBB\Settings\CTA Profile\Lists.txt
+Settings	SettingsfileCONFLICT	\OLBB\Settings\Lists-ACC.txt
 Settings	SettingsfileVCCS	\OLBB\Settings\VCCS.txt
 ASRFastKeys	1	\OLBB\ASR\Beirut CTA.asr
 Settings	alias	\OLBB\Alias\alias.txt
@@ -29,13 +29,13 @@ Plugins	Plugin2	\OLBB\Plugins\vSID\vSID.dll
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Plugins	Plugin3	\OLBB\Plugins\TopSky\TopSky.dll
-Settings	SettingsfilePILOTING	\OLBB\Settings\CTA Profile\Lists.txt
-Settings	SettingsfileORIGPLANE	\OLBB\Settings\CTA Profile\Lists.txt
-Settings	SettingsfileSTUP	\OLBB\Settings\CTA Profile\Lists.txt
-Settings	SettingsfileTAXIOUT	\OLBB\Settings\CTA Profile\Lists.txt
-Settings	SettingsfileTAKEOFF	\OLBB\Settings\CTA Profile\Lists.txt
-Settings	SettingsfileADCS	\OLBB\Settings\CTA Profile\Lists.txt
-Settings	SettingsfileTAXIIN	\OLBB\Settings\CTA Profile\Lists.txt
+Settings	SettingsfilePILOTING	\OLBB\Settings\Lists-ACC.txt
+Settings	SettingsfileORIGPLANE	\OLBB\Settings\Lists-ACC.txt
+Settings	SettingsfileSTUP	\OLBB\Settings\Lists-ACC.txt
+Settings	SettingsfileTAXIOUT	\OLBB\Settings\Lists-ACC.txt
+Settings	SettingsfileTAKEOFF	\OLBB\Settings\Lists-ACC.txt
+Settings	SettingsfileADCS	\OLBB\Settings\Lists-ACC.txt
+Settings	SettingsfileTAXIIN	\OLBB\Settings\Lists-ACC.txt
 Sounds	Sound0	\OLBB\Sounds\handoff_request.wav
 Sounds	Sound1	\OLBB\Sounds\handoff_accept.wav
 Sounds	Sound2	\OLBB\Sounds\conflict_alert.wav
@@ -56,28 +56,11 @@ Sounds	Sound16	\OLBB\Sounds\handoff_refused.wav
 Sounds	Sound17	\OLBB\Sounds\pointout.wav
 Sounds	Sound18	\OLBB\Sounds\startup.wav
 RecentFiles	Recent2	\OLBB\ASR\Beirut CTA.asr
-LastSession	connecttype	0
-LastSession	facility	5
-LastSession	rating	2
-LastSession	tovatsim	1
-LastSession	range	200
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
-LastSession	atis_freq4	118000
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4	\OLBB\Plugins\VFPC\VFPC.dll
-LastSession	callsign	
-LastSession	realname	
-LastSession	certificate
-LastSession	password	
-LastSession	server	AUTOMATIC
-LastSession	scenario	C:\Users\kaijm\Downloads\102 (2).txt
-TeamSpeakVccs	TsVccsMiniControlX	1382
-TeamSpeakVccs	TsVccsMiniControlY	54
-LastSession	atis2	"Beirut Approach"
-LastSession	atis3	Covering the entire Beirut FIR below FL195
-LastSession	atis4	How did I do? - vats.im/levfb
+TeamSpeakVccs	TsVccsMiniControlX	908
+TeamSpeakVccs	TsVccsMiniControlY	126
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
 Plugins	Plugin5	\OLBB\Plugins\Virtual Controller Helper\VCH.dll
@@ -87,3 +70,4 @@ Plugins	Plugin6	\OLBB\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 LastSession	atis_freq2	118000
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin1Display1	Standard ES radar screen
+

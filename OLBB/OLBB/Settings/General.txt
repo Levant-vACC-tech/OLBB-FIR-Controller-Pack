@@ -124,7 +124,7 @@ m_RotateFlightPlanTrackSymbol:1
 m_RubberHeadingRounding:5
 SqawkForSModeTransponder:
 m_TransparentTagBackground:1
-m_UseArrDepTagBgColor:0
+m_UseArrDepTagBgColor:1
 SET_MTCA_Show:1
 m_TaxiOutTime:7
 m_StartupTime:10

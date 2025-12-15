@@ -174,7 +174,7 @@ Window_PredTfc_Caution=15
 Window_PredTfc_Warning=20
 
 Window_Clock=1,1800,400
-Window_CARD=1,1470,600,450,250
+Window_CARD=1,1470,750,450,250
 Window_FlightPlan=0,650,400
 Window_MsgIn=1,850,957
 Window_MsgOut=0,1200,957
@@ -265,7 +265,7 @@ Color_Active_Text_Map=74,74,74
 Color_AIW_Intrusion=255,152,0
 Color_Arm=97,97,97
 Color_Assumed=126,255,108
-Color_Background=42,44,44
+Color_Background=58,58,58
 Color_Border=51,51,52
 Color_BottomShadow=70,70,70
 Color_CARD_Mark_All=212,128,44

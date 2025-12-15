@@ -9,6 +9,12 @@
                   "R655",
                   "L513"
                ]
+            },
+            {
+               "min_fl": 240,
+               "destinations": [
+                  "OSDI"
+               ]
             }
          ],
          "LATEB": [
@@ -17,21 +23,37 @@
                "airways": [
                   "N310"
                ]
+            },
+            {
+               "min_fl": 240,
+               "destinations": [
+                  "OSDI"
+               ]
+            }
+         ],
+         "ELIKA": [
+            {
+               "direction": "ANY"
             }
          ],
          "KAD": [
             {
+               "direction": "ANY",
                "airways": [
                   "UB15",
                   "R19",
                   "B15",
                   "W17",
                   "R655",
-                  "G2"
+                  "G2",
+                  "M31",
+                  "UL619",
+                  "N159",
+                  "N307",
+                  "L620"
                ]
             }
-         ]
-      }
+         ]        
    }
+}
 ]
-   
